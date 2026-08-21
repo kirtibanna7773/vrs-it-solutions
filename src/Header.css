@@ -433,8 +433,8 @@ footer {
   transition: 0.3s;
 }
 .footer-links a:hover {
-  color: red;
-  text-shadow: 0 0 10px rgba(255, 0, 0, 0.7);
+  color: yellow;
+  text-shadow: 0 0 10px rgba(255, 255, 0, 0.7);
 }
 .copyright {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
